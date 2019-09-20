@@ -1,0 +1,12 @@
+name: airbnb_2019_NewYork_listing
+title: airbnb_2019_NewYork_listing
+username:
+account: leouev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1220603
+bundleId: 2428312
+url: https://leouev.shinyapps.io/airbnb_2019_NewYork_listing/
+when: 1568945160.46297
+asMultiple: FALSE
+asStatic: FALSE
